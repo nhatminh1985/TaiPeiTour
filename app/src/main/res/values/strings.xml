@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaipeiTour</string>
+    <string name="no_attractions_found_as_of_now_please_check_in_some_time">No Attractions found as of now\nPlease check in some time!</string>
+</resources>
